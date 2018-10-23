@@ -175,6 +175,18 @@ header ul li:hover {
         opacity: 1;
     }
 }
+
+
+img
+{
+    width:250px;
+    margin-bottom: 10px;
+}
+i{
+    font-size: 40px;
+    margin-right: 10px;
+
+
 =======
 
 /* ============= FIN DU CSS DE CONTACT ============ */
