@@ -1,0 +1,112 @@
+header {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header img {
+    border-left: 1px solid orangered;
+    border-bottom: 1px solid orangered;
+    border-top: 1px solid orangered;
+    position: relative;
+    left: 41px;
+    height: 5rem;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 6rem;
+}
+
+header ul li {
+    background: rgb(255, 182, 59);
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 10rem;
+    color: orangered;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-align: center;
+    border: 1px solid orangered;
+}
+
+header ul li:hover {
+    cursor: pointer;
+    background: rgb(255, 220, 112);
+}
+
+
+.active {
+    background: royalblue;
+    color: white;
+    border: 2px solid rgb(43, 73, 145);
+    height: 6rem;
+    border-radius: 10%;
+}
+
+.active:hover {
+    background: royalblue;
+}
+
+
+.parallax {
+    height: 400px;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header_parallax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    header {
+        display: none;
+    }
+
+    h1 {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: .8rem;
+    }
+
+    p {
+        font-size: .7rem;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .article_content {
+        margin: 0;
+        padding-bottom: 1rem;
+    }
+
+    .parallax {
+        background-size: cover;
+        height: 200px;
+    }
+
+    #programme_titre, #technologies_titre {
+        margin: 4rem 2rem;
+    }
+
+}
