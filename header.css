@@ -1,3 +1,6 @@
+
+/* ============= DEBUT DU CSS DU HEAD ============ */
+
 header {
     margin: 0;
     display: flex;
@@ -111,7 +114,10 @@ header ul li:hover {
 
 }
 <<<<<<< HEAD
-/*  Css Contact   */
+
+            /* ============= FIN DU CSS DE HEAD ============ */
+
+            /* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
@@ -170,6 +176,8 @@ header ul li:hover {
     }
 }
 =======
+
+/* ============= FIN DU CSS DE CONTACT ============ */
 
 /* promocss */
 >>>>>>> d95370e51660e331686ff77d69ae805b2acc16e0
