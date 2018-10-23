@@ -110,3 +110,57 @@ header ul li:hover {
     }
 
 }
+/*  Css Contact   */
+
+.contact-form {
+    background: #fff;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.contact-form .form-control {
+    border-radius: 1rem;
+    box-shadow: 3px 3px 5px #FE9A2E;
+}
+
+.contact-form h1 {
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+}
+
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #FE9A2E;
+    font-weight: 600;
+    color: #FF4000;
+    cursor: pointer;
+}
+
+.Entourage{
+    border: 2px solid #0069d9;
+    box-shadow: 8px 8px 5px #0B0B61;
+}
+
+.Animation {
+    animation-name: Animation;
+    animation-duration: 3s;
+}
+
+@keyframes Animation {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
