@@ -115,7 +115,7 @@ header ul li:hover {
 
 .contact-form {
     background: #fff;
-    margin-top: 10%;
+    margin-top: 0%;
     margin-bottom: 5%;
     width: 70%;
     border-radius: 10px;
@@ -123,12 +123,11 @@ header ul li:hover {
 
 .contact-form .form-control {
     border-radius: 1rem;
-    box-shadow: 3px 3px 5px #FE9A2E;
+    box-shadow: 3px 3px 5px #ffb63b;
 }
 
 .contact-form h1 {
     margin-bottom: 8%;
-    margin-top: -10%;
     text-align: center;
     color: white;
     background-color:#0062cc ;
@@ -141,15 +140,20 @@ header ul li:hover {
     border: none;
     border-radius: 1rem;
     padding: 1.5%;
-    background: #FE9A2E;
+    background: #ffb63b;
     font-weight: 600;
-    color: #FF4000;
+    color: orangered;
     cursor: pointer;
 }
 
 .Entourage{
     border: 2px solid #0069d9;
     box-shadow: 8px 8px 5px #0B0B61;
+    margin-top: 10%;
+    padding-top: 5%;
+}
+.MargeNousContacter {
+    margin-top: -15%;
 }
 
 .Animation {
