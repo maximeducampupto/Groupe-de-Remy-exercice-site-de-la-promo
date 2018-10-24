@@ -506,6 +506,7 @@ article {
         /* ============= DEBUT DE CANDITATS ============ */
 
 .candidats-h2, .candidats-h3 {
+    box-shadow: 8px 8px 5px #0B0B61;
     color: white;
     background-color:#0062cc ;
 }
@@ -513,6 +514,7 @@ article {
 .candidats-h1 {
     background-color:#ffb63b;
     color:orangered;
+    box-shadow: 8px 8px 5px #0B0B61;
 }
 
 .candidats-align {
@@ -523,6 +525,9 @@ article {
     box-shadow: 8px 8px 5px #0B0B61;
     margin-top: 5%;
     padding: 10px;
+}
+#candidats-haut {
+    margin-top: 10%
 }
 
 
