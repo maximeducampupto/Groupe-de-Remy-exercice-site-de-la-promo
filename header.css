@@ -31,25 +31,35 @@ header ul li {
     height: 5rem;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     box-sizing: border-box;
     width: 10rem;
-    color: orangered;
-    font-weight: bold;
-    font-size: 1.1rem;
-    text-align: center;
     border: 1px solid orangered;
 }
 
+header ul li a {
+    text-decoration: none !important;
+    color: orangered !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 header ul li:hover {
+    text-decoration: none;
     cursor: pointer;
     background: rgb(255, 220, 112);
 }
 
-
+header ul li[class="active"] a {
+    color: white !important;
+}
 .active {
     background: royalblue;
-    color: white;
+    font-weight: bold;
     border: 2px solid rgb(43, 73, 145);
     height: 6rem;
     border-radius: 10%;
@@ -113,7 +123,7 @@ header ul li:hover {
     }
 
 }
-<<<<<<< HEAD
+/* <<<<<<< HEAD */
 
             /* ============= FIN DU CSS DE HEAD ============ */
 
@@ -155,7 +165,7 @@ header ul li:hover {
 .Entourage{
     border: 2px solid #0069d9;
     box-shadow: 8px 8px 5px #0B0B61;
-    margin: 10%;
+    margin: 10% auto;
     padding-top: 5%;
 }
 .MargeNousContacter {
@@ -177,19 +187,21 @@ header ul li:hover {
 }
 
 
-img
+.trombi-ligne img
 {
     width:250px;
     margin-bottom: 10px;
 }
-i{
+
+i {
     font-size: 40px;
     margin-right: 10px;
+}
 
 
-=======
+/*=======*/
 
 /* ============= FIN DU CSS DE CONTACT ============ */
 
 /* promocss */
->>>>>>> d95370e51660e331686ff77d69ae805b2acc16e0
+/* >>>>>>> d95370e51660e331686ff77d69ae805b2acc16e0 */
