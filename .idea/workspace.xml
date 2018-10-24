@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7881b21-1067-4a39-bead-b4afe6be9964" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1762139018">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="html" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1427" />
+          <entry key="html" value="693" />
+          <entry key="txt" value="1653" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1427" />
+          <entry key="HTML" value="693" />
+          <entry key="PLAIN_TEXT" value="1653" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/formation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>david</find>
+      <find>james</find>
+      <find>container</find>
+      <find>contai</find>
+      <find>box-shado</find>
+      <find>border</find>
+      <find>header</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/header.css" />
+        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/prom.html" />
+        <option value="$PROJECT_DIR$/Contact.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/formation.css" />
+        <option value="$PROJECT_DIR$/promo.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/formation.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="63" />
+    <option name="y" value="30" />
+    <option name="width" value="1252" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Page Web Header" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Page Web Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projet_Site_Formation" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\Documents\GitHub\Page Web Header\technos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7881b21-1067-4a39-bead-b4afe6be9964" name="Default Changelist" comment="" />
+      <created>1540297114396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540297114396</updated>
+      <workItem from="1540297115823" duration="4396000" />
+      <workItem from="1540366223286" duration="8256000" />
+    </task>
+    <task id="LOCAL-00001" summary="Premier commit.">
+      <created>1540297772425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540297772425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changez le titre pour celui de votre page!">
+      <created>1540299470309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540299470309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Max commit,24/10, 10hXX&#10;&#10;Renommé:&#10;- Contact.html -&gt; contact.html&#10;- Contact.js -&gt; contact.js&#10;- prom.html -&gt; promo.html&#10;- header.css -&gt; style.css&#10;&#10;Supprimmé:&#10;- promo.html&#10;- promo.css&#10;&#10;Ajouté:&#10;- formation.html&#10;- le CSS de cette page est intégré au style.css commun&#10;- html 5 logo pour la section de technos&#10;- button_drop_script.js pour la page de formation&#10;&#10;Changements (réorganisation du CSS commun):&#10;- Les media queries pour mobiles et tablettes sont maintenant situées en fin du fichier&#10;-">
+      <created>1540369893817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540369893817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changements mineurs">
+      <created>1540372242465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540372242465</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Max commit, 24/10, 12h&#10;&#10;&#10;Ajouts de fichiers:&#10;- logo en tete.jpg&#10;- logo_face.jpg&#10;- bootstrap-logo.png&#10;- js-logo.png&#10;- php-logo.png &#10;&#10;&#10;Réorganisations (encore!):&#10;- Ajouté une section commune en haut de page où placer les règles que toutes les pages partagent&#10;- Déplacé html5-imp.png vers le dossier technos&#10;&#10;&#10;FOOTER:&#10;&#10;- Footer et son CSS ajoutés à la page Formation, n'hésitez pas à faire comme avec le header(il reste à changer les liens vers les différents sites partenaires). &#10;La prochaine fois il faudra commencer par ça parce que ça représente pas mal de copier-coller là.">
+      <created>1540376999214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540376999214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12652000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Premier commit." />
+    <MESSAGE value="Changez le titre pour celui de votre page!" />
+    <MESSAGE value="Max commit,24/10, 10hXX&#10;&#10;Renommé:&#10;- Contact.html -&gt; contact.html&#10;- Contact.js -&gt; contact.js&#10;- prom.html -&gt; promo.html&#10;- header.css -&gt; style.css&#10;&#10;Supprimmé:&#10;- promo.html&#10;- promo.css&#10;&#10;Ajouté:&#10;- formation.html&#10;- le CSS de cette page est intégré au style.css commun&#10;- html 5 logo pour la section de technos&#10;- button_drop_script.js pour la page de formation&#10;&#10;Changements (réorganisation du CSS commun):&#10;- Les media queries pour mobiles et tablettes sont maintenant situées en fin du fichier&#10;-" />
+    <MESSAGE value="Changements mineurs" />
+    <MESSAGE value="Max commit, 24/10, 12h&#10;&#10;&#10;Ajouts de fichiers:&#10;- logo en tete.jpg&#10;- logo_face.jpg&#10;- bootstrap-logo.png&#10;- js-logo.png&#10;- php-logo.png &#10;&#10;&#10;Réorganisations (encore!):&#10;- Ajouté une section commune en haut de page où placer les règles que toutes les pages partagent&#10;- Déplacé html5-imp.png vers le dossier technos&#10;&#10;&#10;FOOTER:&#10;&#10;- Footer et son CSS ajoutés à la page Formation, n'hésitez pas à faire comme avec le header(il reste à changer les liens vers les différents sites partenaires). &#10;La prochaine fois il faudra commencer par ça parce que ça représente pas mal de copier-coller là." />
+    <option name="LAST_COMMIT_MESSAGE" value="Max commit, 24/10, 12h&#10;&#10;&#10;Ajouts de fichiers:&#10;- logo en tete.jpg&#10;- logo_face.jpg&#10;- bootstrap-logo.png&#10;- js-logo.png&#10;- php-logo.png &#10;&#10;&#10;Réorganisations (encore!):&#10;- Ajouté une section commune en haut de page où placer les règles que toutes les pages partagent&#10;- Déplacé html5-imp.png vers le dossier technos&#10;&#10;&#10;FOOTER:&#10;&#10;- Footer et son CSS ajoutés à la page Formation, n'hésitez pas à faire comme avec le header(il reste à changer les liens vers les différents sites partenaires). &#10;La prochaine fois il faudra commencer par ça parce que ça représente pas mal de copier-coller là." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/header.html" />
+    <entry file="file://$PROJECT_DIR$/promo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formation.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
