@@ -1,5 +1,38 @@
 
-/* ============= DEBUT DU CSS DU HEAD ============ */
+        /* ============= REGLES GLOBALES ============ */
+
+.parallax {
+    height: 400px;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header_parallax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.active {
+    background: royalblue;
+    font-weight: bold;
+    border: 2px solid rgb(43, 73, 145);
+    height: 6rem;
+    border-radius: 10%;
+}
+
+.active:hover {
+    background: royalblue;
+        }
+
+
+
+        /* ============= FIN DES REGLES GLOBALES ============ */
+
+        /* ============= DEBUT DU CSS DU HEAD ============ */
 
 header {
     margin: 0;
@@ -57,36 +90,10 @@ header ul li:hover {
 header ul li[class="active"] a {
     color: white !important;
 }
-.active {
-    background: royalblue;
-    font-weight: bold;
-    border: 2px solid rgb(43, 73, 145);
-    height: 6rem;
-    border-radius: 10%;
-}
-
-.active:hover {
-    background: royalblue;
-}
 
 
-.parallax {
-    height: 400px;
-    background-image: url("background.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
-#header_parallax {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-
-/* ============= FIN DU CSS DE HEAD ============ */
+/* ============= FIN DU CSS DU HEADER ============ */
 
 /* ============= DEBUT DU CSS DE CONTACT ============ */
 
@@ -166,20 +173,19 @@ i {
 
 
 
-
             /* ============= FIN DU CSS DE PROMO ============ */
 
-            /* ============= FIN DU CSS DE FORMATION ============ */
+            /* ============= DEBUT DU CSS DE FORMATION ============ */
 
 article {
     margin-bottom: 5rem;
 }
 
-
 .card {
     display: inline-block;
     margin: 1rem 5rem;
     width: 8rem;
+    border: none !important;
 }
 
 .container_formation {
@@ -189,7 +195,6 @@ article {
 
 .card-image-top {
     text-align: center;
-    border: 1px solid black;
 }
 
 .card-title {
@@ -233,7 +238,6 @@ article {
     width: 100%;
     justify-content: space-around;
     flex-wrap: wrap;
-
 }
 
 #programme_titre, #technologies_titre {
@@ -253,8 +257,38 @@ article {
     color: rgb(64, 104, 214);
 }
 
+
         /* ============= FIN DU CSS DE FORMATION ============ */
 
+
+
+        /* ============= DEBUT DU CSS FOOTER ============ */
+
+#page_footer {
+    width: 100%;
+    height: 15rem;
+    text-align: center;
+    background: rgb(255, 182, 59);
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#face_logo {
+    width: 20rem;
+    position: relative;
+    left: .7rem;
+}
+
+#partenaires_logos {
+    width: 53rem;
+}
+
+        /* ============= FIN DU CSS FOOTER ============ */
+
+
+        /* ============= DEBUT DES MEDIA QUERIES ============ */
 
 @media screen and (max-width: 600px) {
 
@@ -293,3 +327,8 @@ article {
     }
 
 }
+
+        /* ============= FIN DES MEDIA QUERIES ============ */
+
+
+
