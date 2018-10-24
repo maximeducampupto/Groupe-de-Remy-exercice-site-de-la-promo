@@ -156,17 +156,6 @@ header ul li[class="active"] a {
 
         /* ============= DEBUT DU CSS DE PROMO ============ */
 
-
-
-
-
-
-/*=======*/
-
-/* ============= FIN DU CSS DE PROMO ============ */
-
-/* promocss */
-
 .trombi-ligne img
 {
     width:250px;
@@ -218,7 +207,7 @@ article {
     border: none !important;
 }
 
-.container_formation {
+.container_formation{
     width: 60%;
     margin: 0 auto;
 }
@@ -271,6 +260,7 @@ article {
 }
 
 #programme_titre, #technologies_titre {
+    text-align: center;
     background: rgb(64, 104, 214);
     padding: 2rem;
     box-shadow: 10px 10px 10px #6c757d;
@@ -289,6 +279,56 @@ article {
 
 
         /* ============= FIN DU CSS DE FORMATION ============ */
+
+
+        /* ============= DEBUT DU CSS DES ACTUALITES ============ */
+.actu_title {
+    background: rgb(64, 104, 214);
+    color: white;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actu_container {
+    width: 60%;
+}
+
+.actu_container article {
+    margin: 10rem 0;
+    padding: 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.actu_content {
+    box-sizing: border-box;
+    padding: 2rem;
+}
+
+.actu_button {
+    background: rgb(64, 104, 214);
+    padding: .7rem;
+    margin-top: 2rem;
+}
+
+.actu_image {
+    background: url("article_dummy_image.jpg");
+    background-size: cover;
+    position: relative;
+    right: 15px;
+}
+
+#actualites_main_title {
+    text-align: center;
+    background: rgb(64, 104, 214);
+    padding: 2rem;
+    box-shadow: 10px 10px 10px #6c757d;
+    color: white;
+    margin: 10rem 0;
+}
+
+        /* ============= FIN DU CSS DES ACTUALITES ============ */
 
 
 
