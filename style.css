@@ -506,7 +506,7 @@ article {
         /* ============= DEBUT DE CANDITATS ============ */
 
 .candidats-h2, .candidats-h3 {
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
     color: white;
     background-color:#0062cc ;
 }
@@ -514,7 +514,7 @@ article {
 .candidats-h1 {
     background-color:#ffb63b;
     color:orangered;
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
 }
 
 .candidats-align {
@@ -522,12 +522,17 @@ article {
 }
 
 .candidats-cadre {
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
     margin-top: 5%;
     padding: 10px;
 }
+
 .candidats-haut {
     margin-top: 10%
+}
+
+.candidats-texte {
+color:#0062cc;
 }
 
 
