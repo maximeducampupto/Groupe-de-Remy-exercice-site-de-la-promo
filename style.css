@@ -91,14 +91,34 @@ header ul li[class="active"] a {
 
 
 
-/* ============= FIN DU CSS DU HEADER ============ */
+<<<<<<< HEAD
+.parallax {
+    height: 400px;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-/* ============= DEBUT DU CSS DE CONTACT ============ */
+#header_parallax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+        /* ============= FIN DU CSS DE HEAD ============ */
+=======
+/* ============= FIN DU CSS DU HEADER ============ */
+>>>>>>> 68f37016604409a3946ed888e2bbd4c28b2af952
+
+        /* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
-    margin-bottom: 10%;
-    padding-bottom: 10%;
+    margin-bottom: 5%;
+    padding-bottom: 1%;
     width: 70%;
     border-radius: 10px;
 }
@@ -135,7 +155,7 @@ header ul li[class="active"] a {
     padding-top: 5%;
 }
 .MargeNousContacter {
-    margin-top: -15%;
+    margin-top: -18%;
 }
 
 .Animation {
