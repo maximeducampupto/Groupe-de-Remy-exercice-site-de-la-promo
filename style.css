@@ -292,7 +292,41 @@ article {
 
         /* ============= FIN DU CSS DE FORMATION ============ */
 
+        /* ============= DEBUT DU CSS REMERCIEMENTS=========== */
+#remerci
+{
+    border: 2px solid #0069d9;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: 10% auto;
+    margin-bottom: 8%;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+}
+#remer
+{
+    font-size: 15px;
+}
 
+#rem1
+{
+    border: 2px solid #0069d9;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: 10% auto;
+    margin-bottom: 8%;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+}
+
+
+
+
+        /* ============= FIN DU CSS REMERCIEMENTS=========== */
 
         /* ============= DEBUT DU CSS FOOTER ============ */
 
