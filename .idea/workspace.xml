@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b7881b21-1067-4a39-bead-b4afe6be9964" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="480ecb97-9128-4cac-96b1-2234a7e38b73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promo.html" beforeDir="false" afterPath="$PROJECT_DIR$/promo.html" afterDir="false" />
+    </list>
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,44 +18,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="1762139018">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
+=======
+    <session id="1889992484">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.38" value="1" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="css" value="7" />
           <entry key="html" value="11" />
+=======
+          <entry key="css" value="5" />
+          <entry key="html" value="2" />
+          <entry key="jpg" value="2" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="CSS" value="7" />
           <entry key="HTML" value="11" />
+=======
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="2" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="css" value="1427" />
           <entry key="html" value="693" />
           <entry key="txt" value="1653" />
+=======
+          <entry key="css" value="128" />
+          <entry key="html" value="212" />
+          <entry key="txt" value="29" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="CSS" value="1427" />
           <entry key="HTML" value="693" />
           <entry key="PLAIN_TEXT" value="1653" />
+=======
+          <entry key="CSS" value="128" />
+          <entry key="HTML" value="212" />
+          <entry key="PLAIN_TEXT" value="29" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/formation.html">
@@ -89,11 +131,88 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+=======
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap.css">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/promo.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="2" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/promo.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/header.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="609">
+                  <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/logo_ecn.jpg">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/background.jpg">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/header.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="575">
+                  <caret line="236" lean-forward="true" selection-start-line="236" selection-end-line="236" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conta</find>
+      <find>james</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="almalrich" />
+      </list>
+    </option>
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/header.css" />
         <option value="$PROJECT_DIR$/header.html" />
         <option value="$PROJECT_DIR$/prom.html" />
@@ -103,6 +222,12 @@
         <option value="$PROJECT_DIR$/promo.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/formation.html" />
+=======
+        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/prom.html" />
+        <option value="$PROJECT_DIR$/promo.html" />
+        <option value="$PROJECT_DIR$/header.css" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
       </list>
     </option>
   </component>
@@ -113,12 +238,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="63" />
     <option name="y" value="30" />
     <option name="width" value="1252" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+    <option name="x" value="375" />
+    <option name="y" value="81" />
+    <option name="width" value="1073" />
+    <option name="height" value="676" />
+  </component>
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -129,8 +262,13 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="Page Web Header" type="b2602c69:ProjectViewProjectNode" />
               <item name="Page Web Header" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Site-Formation-squelette-de-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site-Formation-squelette-de-page" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
             </path>
           </expand>
           <select />
@@ -139,6 +277,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projet_Site_Formation" />
@@ -150,6 +289,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrateur\Documents\GitHub\Page Web Header\technos" />
     </key>
+=======
+    <property name="WebServerToolWindowFactoryState" value="true" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,6 +310,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b7881b21-1067-4a39-bead-b4afe6be9964" name="Default Changelist" comment="" />
       <created>1540297114396</created>
       <option name="number" value="Default" />
@@ -225,6 +368,45 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+=======
+      <changelist id="480ecb97-9128-4cac-96b1-2234a7e38b73" name="Default Changelist" comment="" />
+      <created>1540300979243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540300979243</updated>
+      <workItem from="1540300980446" duration="4117000" />
+      <workItem from="1540366086458" duration="4183000" />
+    </task>
+    <task id="LOCAL-00001" summary="4eme promo !+header">
+      <created>1540301742774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540301742774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="5eme promo !+header">
+      <created>1540303912935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540303912935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16580977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -232,7 +414,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="9" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -249,6 +435,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="Premier commit." />
     <MESSAGE value="Changez le titre pour celui de votre page!" />
     <MESSAGE value="Max commit,24/10, 10hXX&#10;&#10;Renommé:&#10;- Contact.html -&gt; contact.html&#10;- Contact.js -&gt; contact.js&#10;- prom.html -&gt; promo.html&#10;- header.css -&gt; style.css&#10;&#10;Supprimmé:&#10;- promo.html&#10;- promo.css&#10;&#10;Ajouté:&#10;- formation.html&#10;- le CSS de cette page est intégré au style.css commun&#10;- html 5 logo pour la section de technos&#10;- button_drop_script.js pour la page de formation&#10;&#10;Changements (réorganisation du CSS commun):&#10;- Les media queries pour mobiles et tablettes sont maintenant situées en fin du fichier&#10;-" />
@@ -289,6 +476,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="80" selection-start-line="80" selection-end-line="80" />
+=======
+    <MESSAGE value="4eme promo !+header" />
+    <MESSAGE value="5eme promo !+header" />
+    <option name="LAST_COMMIT_MESSAGE" value="5eme promo !+header" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo_ecn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="236" lean-forward="true" selection-start-line="236" selection-end-line="236" />
+>>>>>>> 27f04631627824d07571ffd30dfda793065b295e
         </state>
       </provider>
     </entry>
