@@ -131,8 +131,8 @@ header ul li[class="active"] a {
 
 .contact-form {
     background: #fff;
-    margin-bottom: 10%;
-    padding-bottom: 10%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
     width: 70%;
     border-radius: 10px;
 }
@@ -169,7 +169,7 @@ header ul li[class="active"] a {
     padding-top: 5%;
 }
 .MargeNousContacter {
-    margin-top: -15%;
+    margin-top: -18%;
 }
 
 .Animation {
