@@ -86,48 +86,9 @@ header ul li[class="active"] a {
 }
 
 
-@media screen and (max-width: 600px) {
+/* ============= FIN DU CSS DE HEAD ============ */
 
-    header {
-        display: none;
-    }
-
-    h1 {
-        font-size: 1rem;
-    }
-
-    h2 {
-        font-size: .8rem;
-    }
-
-    p {
-        font-size: .7rem;
-    }
-
-    .container {
-        width: 100%;
-    }
-
-    .article_content {
-        margin: 0;
-        padding-bottom: 1rem;
-    }
-
-    .parallax {
-        background-size: cover;
-        height: 200px;
-    }
-
-    #programme_titre, #technologies_titre {
-        margin: 4rem 2rem;
-    }
-
-}
-/* <<<<<<< HEAD */
-
-            /* ============= FIN DU CSS DE HEAD ============ */
-
-            /* ============= DEBUT DU CSS DE CONTACT ============ */
+/* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
@@ -186,9 +147,11 @@ header ul li[class="active"] a {
     }
 }
 
-/* ============= FIN DU CSS DE CONTACT ============ */
+        /* ============= FIN DU CSS DE CONTACT ============ */
 
-/* ============= DEBUT DU CSS DE PROMO ============ */
+        /* ============= DEBUT DU CSS DE PROMO ============ */
+
+
 
 .trombi-ligne img
 {
@@ -202,9 +165,131 @@ i {
 }
 
 
-/*=======*/
 
-/* ============= FIN DU CSS DE PROMO ============ */
 
-/* promocss */
-/* >>>>>>> d95370e51660e331686ff77d69ae805b2acc16e0 */
+            /* ============= FIN DU CSS DE PROMO ============ */
+
+            /* ============= FIN DU CSS DE FORMATION ============ */
+
+article {
+    margin-bottom: 5rem;
+}
+
+
+.card {
+    display: inline-block;
+    margin: 1rem 5rem;
+    width: 8rem;
+}
+
+.container_formation {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.card-image-top {
+    text-align: center;
+    border: 1px solid black;
+}
+
+.card-title {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 1rem;
+}
+
+.drop-button {
+    background: rgb(64, 104, 214);
+    color: white;
+    font-size: 2rem;
+}
+
+.fa-plus-square, .fa-minus-square {
+    font-size: 3rem;
+    color: rgb(64, 104, 214);
+    margin-right: 1.5rem;
+    cursor: pointer;
+}
+
+.article_header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.article_header h2 {
+    margin: 0 !important;
+}
+
+.article_content {
+    margin-left: 2.1rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+#card_container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+#programme_titre, #technologies_titre {
+    background: rgb(64, 104, 214);
+    padding: 2rem;
+    box-shadow: 10px 10px 10px #6c757d;
+    color: white;
+    margin: 10rem 0;
+}
+
+#programme_formation {
+    margin-top: 5rem;
+}
+
+#programme_formation article h2 {
+    margin-bottom: 3rem;
+    color: rgb(64, 104, 214);
+}
+
+        /* ============= FIN DU CSS DE FORMATION ============ */
+
+
+@media screen and (max-width: 600px) {
+
+    header {
+        display: none;
+    }
+
+    h1 {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: .8rem;
+    }
+
+    p {
+        font-size: .7rem;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .article_content {
+        margin: 0;
+        padding-bottom: 1rem;
+    }
+
+    .parallax {
+        background-size: cover;
+        height: 200px;
+    }
+
+    #programme_titre, #technologies_titre {
+        margin: 4rem 2rem;
+    }
+
+}
