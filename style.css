@@ -91,14 +91,37 @@ header ul li[class="active"] a {
 
 
 
+        /*HEAD*/
+
+.parallax {
+    height: 400px;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header_parallax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+        /* ============= FIN DU CSS DE HEAD ============ */
 /* ============= FIN DU CSS DU HEADER ============ */
 
-/* ============= DEBUT DU CSS DE CONTACT ============ */
+        /* ============= FIN DU CSS DU HEADER ============ */
+
+
+        /* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
-    margin-bottom: 10%;
-    padding-bottom: 10%;
+    margin-bottom: 2%;
+    padding-bottom: 1%;
     width: 70%;
     border-radius: 10px;
 }
@@ -114,7 +137,7 @@ header ul li[class="active"] a {
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
 }
 
 .contact-form .btnContact {
@@ -130,12 +153,12 @@ header ul li[class="active"] a {
 
 .Entourage{
     border: 2px solid #0069d9;
-    box-shadow: 8px 8px 5px #0B0B61;
-    margin: 10% auto;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 18% auto 5% auto;
     padding-top: 5%;
 }
 .MargeNousContacter {
-    margin-top: -15%;
+    margin-top: -18%;
 }
 
 .Animation {
@@ -156,17 +179,6 @@ header ul li[class="active"] a {
 
         /* ============= DEBUT DU CSS DE PROMO ============ */
 
-
-
-
-
-
-/*=======*/
-
-/* ============= FIN DU CSS DE PROMO ============ */
-
-/* promocss */
-
 .trombi-ligne img
 {
     width:250px;
@@ -184,12 +196,10 @@ i {
     border: 2px solid #0069d9;
     box-shadow: 8px 8px 5px #0B0B61;
     margin: 10% auto;
-    margin-bottom: 8%;
     text-align: center;
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
 
 }
 
@@ -220,7 +230,7 @@ article {
     border: none !important;
 }
 
-.container_formation {
+.container_formation{
     width: 60%;
     margin: 0 auto;
 }
@@ -273,6 +283,7 @@ article {
 }
 
 #programme_titre, #technologies_titre {
+    text-align: center;
     background: rgb(64, 104, 214);
     padding: 2rem;
     box-shadow: 10px 10px 10px #6c757d;
@@ -326,7 +337,60 @@ article {
 
 
 
+<<<<<<< HEAD
         /* ============= FIN DU CSS REMERCIEMENTS=========== */
+=======
+        /* ============= DEBUT DU CSS DES ACTUALITES ============ */
+.actu_title {
+    background: rgb(64, 104, 214);
+    color: white;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actu_container {
+    width: 60%;
+}
+
+.actu_container article {
+    margin: 10rem 0;
+    padding: 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.actu_content {
+    box-sizing: border-box;
+    padding: 2rem;
+}
+
+.actu_button {
+    background: rgb(64, 104, 214);
+    padding: .7rem;
+    margin-top: 2rem;
+}
+
+.actu_image {
+    background: url("article_dummy_image.jpg");
+    background-size: cover;
+    position: relative;
+    right: 15px;
+}
+
+#actualites_main_title {
+    text-align: center;
+    background: rgb(64, 104, 214);
+    padding: 2rem;
+    box-shadow: 10px 10px 10px #6c757d;
+    color: white;
+    margin: 10rem 0;
+}
+
+        /* ============= FIN DU CSS DES ACTUALITES ============ */
+
+
+>>>>>>> 0d17fd1ff414f45f7de2d34d820e504f9afd2890
 
         /* ============= DEBUT DU CSS FOOTER ============ */
 
@@ -352,6 +416,56 @@ article {
 }
 
         /* ============= FIN DU CSS FOOTER ============ */
+
+
+        /* ============= DEBUT CSS DU DIV MASQUABLE EN JS ============ */
+
+#masquable {
+    background: #ffdc70;
+    width: 30rem;
+    height: 20rem;
+    border-radius: 20% 20% 0 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 0;
+    bottom: 6rem;
+    z-index: 1;
+    font-weight: bold;
+    color: orangered;
+    padding-left: 3rem;
+}
+
+#masquable span {
+    position: relative;
+    bottom: 6rem;
+    right: 2rem;
+}
+
+#masquable span:hover {
+    cursor: pointer;
+}
+
+.masquable-entrance {
+    animation: masquable_entrance_animation 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+}
+
+
+@keyframes masquable_entrance_animation {
+    0% {
+        transform: translateX(1000px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+
+        /* ============= FIN CSS DU DIV MASQUABLE EN JS ============ */
+
 
 
         /* ============= DEBUT DES MEDIA QUERIES ============ */
@@ -395,3 +509,28 @@ article {
 }
 
         /* ============= FIN DES MEDIA QUERIES ============ */
+
+        /* ============= DEBUT DE CANDITATS ============ */
+
+.candidats-h2, .candidats-h3 {
+    color: white;
+    background-color:#0062cc ;
+}
+
+.candidats-h1 {
+    background-color:#ffb63b;
+    color:orangered;
+}
+
+.candidats-align {
+    text-align: center;
+}
+
+.candidats-cadre {
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin-top: 5%;
+    padding: 10px;
+}
+
+
+        /* ============= FIN DE CANDIDATS ============ */
