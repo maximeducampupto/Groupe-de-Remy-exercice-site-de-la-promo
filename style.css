@@ -307,14 +307,12 @@ article {
 #remerci
 {
     border: 2px solid #0069d9;
-    box-shadow: 8px 8px 5px #0B0B61;
-    margin: 10% auto;
-    margin-bottom: 8%;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 10% auto 8% auto;
     text-align: center;
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
 }
 #remer
 {
@@ -324,14 +322,12 @@ article {
 #rem1
 {
     border: 2px solid #0069d9;
-    box-shadow: 8px 8px 5px #0B0B61;
-    margin: 10% auto;
-    margin-bottom: 8%;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 10% auto 8% auto;
     text-align: center;
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
 }
 
         /* ============= FIN DU CSS REMERCIEMENTS=========== */
