@@ -86,14 +86,14 @@ header ul li[class="active"] a {
 }
 
 
-/* ============= FIN DU CSS DE HEAD ============ */
+        /* ============= FIN DU CSS DE HEAD ============ */
 
-/* ============= DEBUT DU CSS DE CONTACT ============ */
+        /* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
     margin-bottom: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 1%;
     width: 70%;
     border-radius: 10px;
 }
