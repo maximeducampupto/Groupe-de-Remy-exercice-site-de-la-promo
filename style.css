@@ -89,11 +89,10 @@ header ul li[class="active"] a {
     color: white !important;
 }
 
-<<<<<<< HEAD
-=======
+
 
         /*HEAD*/
->>>>>>> c1a25453e96cbcaf75a0569062a3a03d09dff744
+
 .parallax {
     height: 400px;
     background-image: url("background.jpg");
@@ -109,13 +108,13 @@ header ul li[class="active"] a {
     justify-content: center;
 }
 
-<<<<<<< HEAD
+
 
         /* ============= FIN DU CSS DE HEAD ============ */
 /* ============= FIN DU CSS DU HEADER ============ */
-=======
+
         /* ============= FIN DU CSS DU HEADER ============ */
->>>>>>> c1a25453e96cbcaf75a0569062a3a03d09dff744
+
 
         /* ============= DEBUT DU CSS DE CONTACT ============ */
 
