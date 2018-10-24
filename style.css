@@ -90,8 +90,7 @@ header ul li[class="active"] a {
 }
 
 
-
-<<<<<<< HEAD
+        /*HEAD*/
 .parallax {
     height: 400px;
     background-image: url("background.jpg");
@@ -107,17 +106,13 @@ header ul li[class="active"] a {
     justify-content: center;
 }
 
-
-        /* ============= FIN DU CSS DE HEAD ============ */
-=======
-/* ============= FIN DU CSS DU HEADER ============ */
->>>>>>> 68f37016604409a3946ed888e2bbd4c28b2af952
+        /* ============= FIN DU CSS DU HEADER ============ */
 
         /* ============= DEBUT DU CSS DE CONTACT ============ */
 
 .contact-form {
     background: #fff;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     padding-bottom: 1%;
     width: 70%;
     border-radius: 10px;
@@ -134,7 +129,7 @@ header ul li[class="active"] a {
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
 }
 
 .contact-form .btnContact {
@@ -150,8 +145,8 @@ header ul li[class="active"] a {
 
 .Entourage{
     border: 2px solid #0069d9;
-    box-shadow: 8px 8px 5px #0B0B61;
-    margin: 10% auto;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 18% auto 5% auto;
     padding-top: 5%;
 }
 .MargeNousContacter {
@@ -203,12 +198,10 @@ i {
     border: 2px solid #0069d9;
     box-shadow: 8px 8px 5px #0B0B61;
     margin: 10% auto;
-    margin-bottom: 8%;
     text-align: center;
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    box-shadow: 8px 8px 5px #0B0B61;
 
 }
 
@@ -379,3 +372,28 @@ article {
 }
 
         /* ============= FIN DES MEDIA QUERIES ============ */
+
+        /* ============= DEBUT DE CANDITATS ============ */
+
+.candidats-h2, .candidats-h3 {
+    color: white;
+    background-color:#0062cc ;
+}
+
+.candidats-h1 {
+    background-color:#ffb63b;
+    color:orangered;
+}
+
+.candidats-align {
+    text-align: center;
+}
+
+.candidats-cadre {
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin-top: 5%;
+    padding: 10px;
+}
+
+
+        /* ============= FIN DE CANDIDATS ============ */
