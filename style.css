@@ -28,8 +28,6 @@
     background: royalblue;
         }
 
-
-
         /* ============= FIN DES REGLES GLOBALES ============ */
 
         /* ============= DEBUT DU CSS DU HEAD ============ */
@@ -160,6 +158,15 @@ header ul li[class="active"] a {
 
 
 
+
+
+
+/*=======*/
+
+/* ============= FIN DU CSS DE PROMO ============ */
+
+/* promocss */
+
 .trombi-ligne img
 {
     width:250px;
@@ -171,6 +178,29 @@ i {
     margin-right: 10px;
 }
 
+#title
+{
+    border: 2px solid #0069d9;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: 10% auto;
+    margin-bottom: 8%;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+
+}
+
+.prenomPhoto
+{
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: auto;
+}
 
 
             /* ============= FIN DU CSS DE PROMO ============ */
@@ -269,7 +299,7 @@ article {
     height: 15rem;
     text-align: center;
     background: rgb(255, 182, 59);
-    margin-top: 5rem;
+    margin-top: 10rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -329,6 +359,3 @@ article {
 }
 
         /* ============= FIN DES MEDIA QUERIES ============ */
-
-
-
