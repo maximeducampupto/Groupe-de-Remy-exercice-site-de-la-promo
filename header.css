@@ -190,6 +190,15 @@ header ul li[class="active"] a {
 
 /* ============= DEBUT DU CSS DE PROMO ============ */
 
+
+
+
+/*=======*/
+
+/* ============= FIN DU CSS DE PROMO ============ */
+
+/* promocss */
+
 .trombi-ligne img
 {
     width:250px;
@@ -201,10 +210,28 @@ i {
     margin-right: 10px;
 }
 
+#title
+{
+    border: 2px solid #0069d9;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: 10% auto;
 
-/*=======*/
+    margin-bottom: 8%;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
 
-/* ============= FIN DU CSS DE PROMO ============ */
+}
 
-/* promocss */
-/* >>>>>>> d95370e51660e331686ff77d69ae805b2acc16e0 */
+.prenomPhoto
+{
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px #0B0B61;
+    margin: auto;
+}
+
