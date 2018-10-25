@@ -329,7 +329,7 @@ article {
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    font-size: 20px;
+
 
 }
 
@@ -342,7 +342,7 @@ article {
             color: white;
             background-color:#0062cc ;
             border-radius: 10px;
-            font-size: 20px;
+
 }
 
 .troisieme
@@ -354,7 +354,12 @@ article {
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
-    font-size: 20px;
+
+}
+
+.remercie-centre{
+    padding: 5%;
+    font-size: 25px;
 }
 
         /* ============= FIN DU CSS REMERCIEMENTS=========== */
