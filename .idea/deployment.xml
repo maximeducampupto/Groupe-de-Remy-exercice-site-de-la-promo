@@ -2,10 +2,17 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
-      <paths name="web host up to">
+      <paths name="ExercicesJavaS">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="files.000webhost.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Formation_Squelette" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

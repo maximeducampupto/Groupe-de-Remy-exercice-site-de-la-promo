@@ -187,7 +187,8 @@ header ul li[class="active"] a {
 
 i {
     font-size: 40px;
-    margin-right: 10px;
+
+    margin: 10px 10px 5px 15px;
 }
 
 #title
@@ -206,11 +207,12 @@ i {
 {
     text-align: center;
     color: white;
-    background-color:#0062cc ;
+    background-color:#ffc107;
     border-radius: 10px;
     box-shadow: 8px 8px 5px #0B0B61;
     margin: auto;
 }
+
 
 
             /* ============= FIN DU CSS DE PROMO ============ */
@@ -301,6 +303,34 @@ article {
 
         /* ============= FIN DU CSS DE FORMATION ============ */
 
+        /* ============= DEBUT DU CSS REMERCIEMENTS=========== */
+#remerci
+{
+    border: 2px solid #0069d9;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 10% auto 8% auto;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+}
+#remer
+{
+    font-size: 15px;
+}
+
+#rem1
+{
+    border: 2px solid #0069d9;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 10% auto 8% auto;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+}
+
+        /* ============= FIN DU CSS REMERCIEMENTS=========== */
 
         /* ============= DEBUT DU CSS DES ACTUALITES ============ */
 .actu_title {
@@ -350,8 +380,6 @@ article {
 }
 
         /* ============= FIN DU CSS DES ACTUALITES ============ */
-
-
 
         /* ============= DEBUT DU CSS FOOTER ============ */
 
@@ -474,6 +502,7 @@ article {
         /* ============= DEBUT DE CANDITATS ============ */
 
 .candidats-h2, .candidats-h3 {
+    box-shadow: 10px 10px 10px #6c757d;
     color: white;
     background-color:#0062cc ;
 }
@@ -481,6 +510,7 @@ article {
 .candidats-h1 {
     background-color:#ffb63b;
     color:orangered;
+    box-shadow: 10px 10px 10px #6c757d;
 }
 
 .candidats-align {
@@ -488,10 +518,105 @@ article {
 }
 
 .candidats-cadre {
-    box-shadow: 8px 8px 5px #0B0B61;
+    box-shadow: 10px 10px 10px #6c757d;
     margin-top: 5%;
     padding: 10px;
 }
 
+.candidats-haut {
+    margin-top: 10%
+}
+
+.candidats-texte {
+color:#0062cc;
+}
+
 
         /* ============= FIN DE CANDIDATS ============ */
+
+
+        /* ============= DEBUT DE ACCUEIL ============ */
+        #cadre1 {
+            box-shadow: #4e555b 10px 10px 10px;
+            /*width: 400px;*/
+            height: 50px;
+            text-align: center;
+            background-color: #005cbf;
+
+
+        }
+        #cadre2 {
+            box-shadow: #4e555b 10px 10px 10px;
+            /*width: 400px;*/
+            height: 50px;
+            text-align: center;
+            background-color: #005cbf;
+
+        }
+        #cadre3 {
+            box-shadow: #4e555b 10px 10px 10px;
+            /*width: 400px;*/
+            height: 50px;
+            text-align: center;
+            background-color: #005cbf;
+
+        }
+        .couleurRow {
+            color: white;
+        }
+        #L1 {
+            border: 2px solid black;
+            height: 1000%;
+            box-shadow: #6c757d 10px 10px 10px;
+        }
+        #L2 {
+            border: 2px solid black;
+            height: 1000%;
+            box-shadow: #6c757d 10px 10px 10px;
+        }
+        #L3 {
+            border: 2px solid black;
+            height: 1000%;
+            box-shadow: #6c757d 10px 10px 10px;
+        }
+        #I1 {
+
+            width: 20%;
+            height: 20%;
+            margin-left: 15px;
+            margin-top: 15px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+        #I2 {
+
+            width: 20%;
+            height: 20%;
+            margin-left: 15px;
+            margin-top: 15px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+        #C1 {
+            margin-left: 50px;
+            margin-top: -150px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+        #C2 {
+            margin-left: 50px;
+            margin-top: -330px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+        #C3 {
+            margin-left: 295px;
+            margin-top: -170px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+        #C4 {
+            margin-left: 867px;
+            margin-top: -600px;
+            box-shadow: #6c757d 5px 5px 5px;
+        }
+.container-accueil {
+    margin-top: 10rem !important;
+}
+
+        /* ============= FIN DE ACCUEIL ============ */
