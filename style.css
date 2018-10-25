@@ -316,10 +316,12 @@ article {
 }
 #remer
 {
-    font-size: 15px;
+    font-size: 35px;
 }
 
-#rem1
+
+
+.premier
 {
     border: 2px solid #0069d9;
     box-shadow: 10px 10px 10px #6c757d;
@@ -328,6 +330,32 @@ article {
     color: white;
     background-color:#0062cc ;
     border-radius: 10px;
+    font-size: 20px;
+
+}
+
+.deuxieme
+{
+            border: 2px solid #0069d9;
+            box-shadow: 10px 10px 10px #6c757d;
+            margin: 10% auto 8% auto;
+            text-align: center;
+            color: white;
+            background-color:#0062cc ;
+            border-radius: 10px;
+            font-size: 20px;
+}
+
+.troisieme
+{
+    border: 2px solid #0069d9;
+    box-shadow: 10px 10px 10px #6c757d;
+    margin: 10% auto 8% auto;
+    text-align: center;
+    color: white;
+    background-color:#0062cc ;
+    border-radius: 10px;
+    font-size: 20px;
 }
 
         /* ============= FIN DU CSS REMERCIEMENTS=========== */
