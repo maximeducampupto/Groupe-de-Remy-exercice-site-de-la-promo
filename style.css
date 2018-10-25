@@ -3,7 +3,7 @@
 
 .parallax {
     height: 400px;
-    background-image: url("background.jpg");
+    background-image: url("image/background.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header ul li[class="active"] a {
 
 .parallax {
     height: 400px;
-    background-image: url("background.jpg");
+    background-image: url("image/background.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -363,8 +363,22 @@ article {
     margin-top: 2rem;
 }
 
-.actu_image {
-    background: url("article_dummy_image.jpg");
+#actu_image_1 {
+    background: url("image/article_dummy_img.jpg");
+    background-size: cover;
+    position: relative;
+    right: 15px;
+}
+
+#actu_image_2 {
+    background: url("image/article_dummy_img_2.jpg");
+    background-size: cover;
+    position: relative;
+    right: 15px;
+}
+
+#actu_image_3 {
+    background: url("image/article_dummy_img_3.jpg");
     background-size: cover;
     position: relative;
     right: 15px;
@@ -424,6 +438,12 @@ article {
     font-weight: bold;
     color: orangered;
     padding-left: 3rem;
+    animation-name:  masquable_entrance_animation;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: none;
+    animation-play-state: running;
 }
 
 #masquable span {
@@ -436,22 +456,14 @@ article {
     cursor: pointer;
 }
 
-.masquable-entrance {
-    animation: masquable_entrance_animation 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
-}
-
-
 @keyframes masquable_entrance_animation {
     0% {
         transform: translateX(1000px);
-        opacity: 0;
     }
     100% {
         transform: translateX(0);
-        opacity: 1;
     }
 }
-
 
         /* ============= FIN CSS DU DIV MASQUABLE EN JS ============ */
 
@@ -465,19 +477,23 @@ article {
         display: none;
     }
 
-    h1 {
+    #page_footer {
+        display: none;
+    }
+
+    .container_formation h1 {
         font-size: 1rem;
     }
 
-    h2 {
+    .container_formation h2 {
         font-size: .8rem;
     }
 
-    p {
+    .container_formation p {
         font-size: .7rem;
     }
 
-    .container {
+    .container_formation  {
         width: 100%;
     }
 
@@ -489,6 +505,14 @@ article {
     .parallax {
         background-size: cover;
         height: 200px;
+    }
+
+    .card {
+        margin: 1rem auto;
+    }
+
+    .card-title {
+        font-size: .7rem;
     }
 
     #programme_titre, #technologies_titre {
