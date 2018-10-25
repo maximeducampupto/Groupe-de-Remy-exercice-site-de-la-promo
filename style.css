@@ -478,6 +478,10 @@ article {
     animation-play-state: running;
 }
 
+#masquable p {
+    margin: 0 auto 0 1.7rem
+}
+
 #masquable span {
     position: relative;
     bottom: 6rem;
@@ -525,8 +529,12 @@ article {
         font-size: .7rem;
     }
 
-    .container_formation  {
+    .container_formation, .actu_container  {
         width: 100%;
+    }
+
+    #actu_image_1, #actu_image_2, #actu_image_3 {
+        display: none;
     }
 
     .article_content {
@@ -551,6 +559,28 @@ article {
         margin: 4rem 2rem;
     }
 
+    #masquable {
+        width: 8rem;
+        height: 20rem;
+        border-radius: 10% 10% 0 10%;
+        font-size: .8rem;
+        position: fixed;
+        right: 0;
+        bottom: 2rem;
+        color: orangered;
+        animation-name:  masquable_entrance_animation;
+        animation-duration: 1s;
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: 1;
+        animation-fill-mode: none;
+        animation-play-state: running;
+    }
+
+    #masquable span {
+        background: red;
+        padding-left: 1rem;
+        padding-top: 1rem;
+    }
 }
 
         /* ============= FIN DES MEDIA QUERIES ============ */
